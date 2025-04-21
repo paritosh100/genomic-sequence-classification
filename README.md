@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Genomic Sequence Classification with HMM and CNN
 
 A comparative machine learning project that models DNA sequences using both interpretable probabilistic models (Hidden Markov Models) and high-performance deep learning models (Convolutional Neural Networks).
@@ -108,6 +109,10 @@ All dependencies are listed in `requirements.txt`.
 ## 📜 License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
+=======
+# genomic-sequence-classification
+Comparative modeling of DNA sequences using HMM and CNN
+>>>>>>> 4d90e7af05639e5f97813d53d3d6f5832793c227
 =======
 # genomic-sequence-classification
 Comparative modeling of DNA sequences using HMM and CNN
