@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+hmmlearn>=0.3.0
+tensorflow>=2.10
